@@ -1,0 +1,91 @@
+*,body{
+    width: 100%;
+    padding:0;
+    margin: 0 auto;
+}
+.linear-gradiente-uno{
+    background: linear-gradient(128deg,rgba(230,175,94,1) 0%,rgba(185,211,71,1) 49%,rgba(128,194,171,1) 100%);
+    height: 60px;
+}
+.texto-1{
+    font-family: lexend deca,helvetica neue,Helvetica,sans-serif;
+    --tw-text-opacity: 1;
+    color: rgb(255 97 103/var(--tw-text-opacity));
+}
+.disabled-underline{
+    text-decoration: none;
+}
+.linear-gradiente-2{
+    background: linear-gradient(128deg,rgba(230,175,94,1) 0%,rgba(185,211,71,1) 49%,rgba(128,194,171,1) 100%);
+    height: auto;
+}
+.texto-2{
+    font-family: lexend deca,helvetica neue,Helvetica,sans-serif;
+    text-align: center;
+    --tw-text-opacity: 1;
+    color: rgb(249 250 251/var(--tw-text-opacity));
+    font-size: 1.875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 2rem;
+    letter-spacing: .1em;
+}
+.titular{
+    font-size: 1.875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 2rem;
+    letter-spacing: .1em;
+    --tw-text-opacity: 1;
+    color: rgb(255 97 103/var(--tw-text-opacity));
+    text-align: center;
+}
+.bg-primary-color{
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 97 103/var(--tw-bg-opacity));
+    height: 10rem;
+    width: 10rem;
+    max-width: 100%;
+    border-radius: 9999px;
+    transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+.text-gray{
+    --tw-text-opacity: 1;
+    color: rgb(31 41 55/var(--tw-text-opacity));
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    text-align: center;
+    margin-top: 1rem;
+    font-family: lexend deca,helvetica neue,Helvetica,sans-serif;
+}
+.texto-verde-oscuro{
+    --tw-text-opacity: 1;
+    color: rgb(95 103 46/var(--tw-text-opacity));
+    letter-spacing: .1em;
+    font-weight: 600;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    text-align: center;
+    margin-bottom: 2.5rem;
+    font-family: lexend deca,helvetica neue,Helvetica,sans-serif;
+}
+.bg-lima{
+    --tw-bg-opacity: 1;
+    background-color: rgb(247 248 233/var(--tw-bg-opacity));
+}
+.bg-card-color{
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 97 103/var(--tw-bg-opacity));
+}
+.text-card-1{
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255/var(--tw-text-opacity));
+}
+.bg-white-setting{
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255/var(--tw-bg-opacity));
+    width: 100%;
+    height: 0.125rem;
+    margin-bottom: 1rem;
+}
