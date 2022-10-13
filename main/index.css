@@ -137,3 +137,7 @@ hr{
     box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
     transition-duration: 300ms;
 }
+.card:hover, .card-body:hover{
+    --tw-bg-opacity: 1;
+    background-color: rgb(203 219 68/var(--tw-bg-opacity));
+}
